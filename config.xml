@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget id="fr.parole.plus" version="1.0.0"
+xmlns="http://www.w3.org/ns/widgets"
+xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<name>Parole+</name>
+<description>Rééducation du langage</description>
+<content src="index.html"/>
+<preference name="Orientation" value="portrait"/>
+</widget>

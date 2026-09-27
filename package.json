@@ -1,0 +1,11 @@
+{
+  "name": "paroleplus",
+  "displayName": "Parole+",
+  "version": "1.0.0",
+  "description": "Rééducation du langage",
+  "cordova": {
+    "platforms": [
+      "ios"
+    ]
+  }
+}

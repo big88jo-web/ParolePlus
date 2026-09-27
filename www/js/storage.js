@@ -1,0 +1,1 @@
+const KEY='paroleplus';const saveProgress=i=>localStorage.setItem(KEY,i);const loadProgress=()=>Number(localStorage.getItem(KEY)||0);
