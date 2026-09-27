@@ -1,0 +1,502 @@
+[
+  {
+    "emoji": "💬",
+    "phrase": "Je veux boire de l'eau. (1)",
+    "image": "img/001.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux une pomme. (2)",
+    "image": "img/002.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Bonjour. (3)",
+    "image": "img/003.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je t'aime. (4)",
+    "image": "img/004.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux m'asseoir. (5)",
+    "image": "img/005.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Merci. (6)",
+    "image": "img/006.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je vais bien. (7)",
+    "image": "img/007.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "J'ai faim. (8)",
+    "image": "img/008.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je suis fatigué. (9)",
+    "image": "img/009.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "J'ai besoin d'aide. (10)",
+    "image": "img/010.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux marcher. (11)",
+    "image": "img/011.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Ouvre la porte. (12)",
+    "image": "img/012.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Appelle le médecin. (13)",
+    "image": "img/013.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux me laver. (14)",
+    "image": "img/014.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux dormir. (15)",
+    "image": "img/015.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je comprends. (16)",
+    "image": "img/016.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Répète s'il te plaît. (17)",
+    "image": "img/017.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Voici ma famille. (18)",
+    "image": "img/018.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux lire. (19)",
+    "image": "img/019.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux sortir. (20)",
+    "image": "img/020.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux boire de l'eau. (21)",
+    "image": "img/021.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux une pomme. (22)",
+    "image": "img/022.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Bonjour. (23)",
+    "image": "img/023.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je t'aime. (24)",
+    "image": "img/024.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux m'asseoir. (25)",
+    "image": "img/025.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Merci. (26)",
+    "image": "img/026.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je vais bien. (27)",
+    "image": "img/027.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "J'ai faim. (28)",
+    "image": "img/028.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je suis fatigué. (29)",
+    "image": "img/029.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "J'ai besoin d'aide. (30)",
+    "image": "img/030.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux marcher. (31)",
+    "image": "img/031.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Ouvre la porte. (32)",
+    "image": "img/032.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Appelle le médecin. (33)",
+    "image": "img/033.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux me laver. (34)",
+    "image": "img/034.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux dormir. (35)",
+    "image": "img/035.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je comprends. (36)",
+    "image": "img/036.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Répète s'il te plaît. (37)",
+    "image": "img/037.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Voici ma famille. (38)",
+    "image": "img/038.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux lire. (39)",
+    "image": "img/039.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux sortir. (40)",
+    "image": "img/040.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux boire de l'eau. (41)",
+    "image": "img/041.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux une pomme. (42)",
+    "image": "img/042.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Bonjour. (43)",
+    "image": "img/043.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je t'aime. (44)",
+    "image": "img/044.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux m'asseoir. (45)",
+    "image": "img/045.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Merci. (46)",
+    "image": "img/046.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je vais bien. (47)",
+    "image": "img/047.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "J'ai faim. (48)",
+    "image": "img/048.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je suis fatigué. (49)",
+    "image": "img/049.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "J'ai besoin d'aide. (50)",
+    "image": "img/050.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux marcher. (51)",
+    "image": "img/051.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Ouvre la porte. (52)",
+    "image": "img/052.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Appelle le médecin. (53)",
+    "image": "img/053.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux me laver. (54)",
+    "image": "img/054.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux dormir. (55)",
+    "image": "img/055.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je comprends. (56)",
+    "image": "img/056.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Répète s'il te plaît. (57)",
+    "image": "img/057.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Voici ma famille. (58)",
+    "image": "img/058.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux lire. (59)",
+    "image": "img/059.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux sortir. (60)",
+    "image": "img/060.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux boire de l'eau. (61)",
+    "image": "img/061.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux une pomme. (62)",
+    "image": "img/062.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Bonjour. (63)",
+    "image": "img/063.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je t'aime. (64)",
+    "image": "img/064.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux m'asseoir. (65)",
+    "image": "img/065.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Merci. (66)",
+    "image": "img/066.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je vais bien. (67)",
+    "image": "img/067.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "J'ai faim. (68)",
+    "image": "img/068.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je suis fatigué. (69)",
+    "image": "img/069.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "J'ai besoin d'aide. (70)",
+    "image": "img/070.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux marcher. (71)",
+    "image": "img/071.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Ouvre la porte. (72)",
+    "image": "img/072.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Appelle le médecin. (73)",
+    "image": "img/073.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux me laver. (74)",
+    "image": "img/074.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux dormir. (75)",
+    "image": "img/075.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je comprends. (76)",
+    "image": "img/076.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Répète s'il te plaît. (77)",
+    "image": "img/077.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Voici ma famille. (78)",
+    "image": "img/078.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux lire. (79)",
+    "image": "img/079.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux sortir. (80)",
+    "image": "img/080.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux boire de l'eau. (81)",
+    "image": "img/081.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux une pomme. (82)",
+    "image": "img/082.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Bonjour. (83)",
+    "image": "img/083.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je t'aime. (84)",
+    "image": "img/084.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux m'asseoir. (85)",
+    "image": "img/085.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Merci. (86)",
+    "image": "img/086.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je vais bien. (87)",
+    "image": "img/087.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "J'ai faim. (88)",
+    "image": "img/088.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je suis fatigué. (89)",
+    "image": "img/089.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "J'ai besoin d'aide. (90)",
+    "image": "img/090.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux marcher. (91)",
+    "image": "img/091.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Ouvre la porte. (92)",
+    "image": "img/092.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Appelle le médecin. (93)",
+    "image": "img/093.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux me laver. (94)",
+    "image": "img/094.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux dormir. (95)",
+    "image": "img/095.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je comprends. (96)",
+    "image": "img/096.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Répète s'il te plaît. (97)",
+    "image": "img/097.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Voici ma famille. (98)",
+    "image": "img/098.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux lire. (99)",
+    "image": "img/099.svg"
+  },
+  {
+    "emoji": "💬",
+    "phrase": "Je veux sortir. (100)",
+    "image": "img/100.svg"
+  }
+]

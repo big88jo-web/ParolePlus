@@ -1,0 +1,1 @@
+function speak(t){speechSynthesis.cancel();speechSynthesis.resume();const u=new SpeechSynthesisUtterance(t);u.lang='fr-FR';u.rate=.75;speechSynthesis.speak(u)}
